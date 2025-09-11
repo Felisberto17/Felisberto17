@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👩🏻‍💻 Felisberto
 
-<!--
-**Felisberto17/Felisberto17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Estudante da área de Ti`**
 
-Here are some ideas to get you started:
+Me chamo Felisberto Emerson Zangui Catombela, tenho 17 anos e sou natural de Luanda. Concluíndo o ensino médio no NSA, no curso técnico em informática. Atualmente, estou cursando e criando projectos pela internet. Sou apaixonada por tecnologia , onde crio projetos em programação, e também posto projectos dos storys através do Instagram, com o perfil chamado "[its.catumbela_17](https://www.instagram.com/its.catumbela_17/)".
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Linguagens e Tecnologias  
+
+## 📊 Estatísticas  
+
+### Estatísticas do GitHub de Larissa Kich
+- ⭐ Total de estrelas: **863**  
+- 📌 Total de Commits: **209**  
+- 🔄 Total de PRs: **0**  
+- 🐛 Total de Issues: **0**  
+- 🤝 Contribuiu (ano passado): **0**
+
+---
+
+## 📈 Tecnologias  
+
+```text
+HTML       █████████████████████░░░ 55.00%  
+CSS        ████████████░░░░░░░░░░░ 20.00%  
+JavaScript ███░░░░░░░░░░░░░░░░░░░  5.00%  
+C          ████████░░░░░░░░░░░░░░ 15.00%  
+Python     ███░░░░░░░░░░░░░░░░░░░  5.00%  
