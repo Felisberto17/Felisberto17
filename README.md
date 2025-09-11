@@ -10,9 +10,9 @@ Me chamo Felisberto Emerson Zangui Catombela, tenho 17 anos e sou natural de Lua
 
 ## 📊 Estatísticas  
 
-### Estatísticas do GitHub de Larissa Kich
-- ⭐ Total de estrelas: **863**  
-- 📌 Total de Commits: **209**  
+### Estatísticas do GitHub 
+- ⭐ Total de estrelas: **0**  
+- 📌 Total de Commits: **0**  
 - 🔄 Total de PRs: **0**  
 - 🐛 Total de Issues: **0**  
 - 🤝 Contribuiu (ano passado): **0**
