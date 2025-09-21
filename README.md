@@ -52,7 +52,7 @@ Me chamo Felisberto Emerson Zangui Catombela, tenho 17 anos e sou natural de Lua
 
 ###
 
-<br clear="both">
+
 
 <img src="https://raw.githubusercontent.com/Felisberto17/Felisberto17/output/snake.svg" alt="Snake animation" />
 
