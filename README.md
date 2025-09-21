@@ -4,26 +4,59 @@
 
 Me chamo Felisberto Emerson Zangui Catombela, tenho 17 anos e sou natural de Luanda. Ainda terminando o ensino médio no NSA, no curso técnico em informática. Atualmente, estou cursando e criando projectos pela internet. Sou apaixonada por tecnologia , onde crio projetos em programação, e também posto projectos dos storys através do Instagram, com o perfil chamado "[its.catumbela_17](https://www.instagram.com/its.catumbela_17/)".
 
----
+🎉
+Star This Project
+Fork on Github
 
-## 🚀 Linguagens e Tecnologias  
+<h3 align="left">👩🏻‍💻 Felisberto<br><br>Estudante da área de Ti<br><br>Me chamo Felisberto Emerson Zangui Catumbela, tenho 17 anos e sou natural de Luanda. Ainda terminando o ensino médio no NSA, no curso técnico em informática. Atualmente, estou cursando e criando projectos pela internet. Sou apaixonada por tecnologia , onde crio projetos em programação, e também posto projectos dos storys através do Instagram, com o perfil chamado "its.catumbela_17".</h3>
 
-## 📊 Estatísticas  
+###
 
-### Estatísticas do GitHub 
-- ⭐ Total de estrelas: **0**  
-- 📌 Total de Commits: **0**  
-- 🔄 Total de PRs: **0**  
-- 🐛 Total de Issues: **0**  
-- 🤝 Contribuiu (ano passado): **0**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+</div>
 
----
+###
 
-## 📈 Tecnologias  
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+  <img src="https://img.shields.io/static/v1?message=Visual%20Studio%20Marketplace&logo=visualstudio&label=&color=e2165e&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="visualstudio logo"  />
+</div>
 
-```text
-HTML       █████████████████████░░░ 55.00%  
-CSS        ████████████░░░░░░░░░░░ 20.00%  
-JavaScript ███░░░░░░░░░░░░░░░░░░░  5.00%  
-C          ████████░░░░░░░░░░░░░░ 15.00%  
-Python     ███░░░░░░░░░░░░░░░░░░░  5.00%  
+###
+
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWUwbW5jYXR0NzM4aGZkdmY4YmRwNXh6dmIwM21tdnRuc244cTVyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mCRJDo24UvJMA/giphy.gif"  />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Felisberto17&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Felisberto17&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Felisberto17/Felisberto17/output/snake.svg" alt="Snake animation" />
+
+###
