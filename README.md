@@ -8,7 +8,7 @@ Me chamo Felisberto Emerson Zangui Catombela, tenho 17 anos e sou natural de Lua
 Star This Project
 Fork on Github
 
-<h3 align="left">👩🏻‍💻 Felisberto<br><br>Estudante da área de Ti<br><br>Me chamo Felisberto Emerson Zangui Catumbela, tenho 17 anos e sou natural de Luanda. Ainda terminando o ensino médio no NSA, no curso técnico em informática. Atualmente, estou cursando e criando projectos pela internet. Sou apaixonada por tecnologia , onde crio projetos em programação, e também posto projectos dos storys através do Instagram, com o perfil chamado "its.catumbela_17".</h3>
+<h3 align="left">👩🏻‍💻 Felisberto<br><br>Estudante da área de Ti<br><br>Me chamo Felisberto Emerson Zangui Catumbela, tenho 17 anos e sou natural de Luanda. Ainda terminando o ensino médio no NSA, no curso técnico em informática. Atualmente, estou cursando e criando projectos pela internet. Sou apaixonada por tecnologia , onde crio projetos em programação, e também posto projectos dos storys através do Instagram, com o perfil chamado "[its.catumbela_17](https://www.instagram.com/its.catumbela_17/)".</h3>
 
 ###
 
