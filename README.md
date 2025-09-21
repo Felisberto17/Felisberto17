@@ -33,7 +33,7 @@ Me chamo Felisberto Emerson Zangui Catombela, tenho 17 anos e sou natural de Lua
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
     <a href="https://mail.google.com/mail/u/0/#inbox">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-<ah ref="https://outlook.live.com/mail/0/?deeplink=mail%2F0%2F%3Fnlp%3D0">
+<a href="https://outlook.live.com/mail/0/?deeplink=mail%2F0%2F%3Fnlp%3D0">
   <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   <a href="https://aex.dev.azure.com/me?mkt=pt-PT">
   <img src="https://img.shields.io/static/v1?message=Visual%20Studio%20Marketplace&logo=visualstudio&label=&color=e2165e&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="visualstudio logo"  />
