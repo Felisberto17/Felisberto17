@@ -53,10 +53,5 @@ Me chamo Felisberto Emerson Zangui Catombela, tenho 17 anos e sou natural de Lua
 ###
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Felisberto17/Felisberto17/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Felisberto17/Felisberto17/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Felisberto17/Felisberto17/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
