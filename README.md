@@ -2,7 +2,7 @@
 
 **`Estudante da área de Ti`**
 
-Me chamo Felisberto Catumbela, tenho 17 anos e sou natural de Luanda. Ainda terminando o ensino médio no NSA, no curso técnico em informática. Atualmente, estou cursando e criando projectos pela internet. Sou apaixonada por tecnologia , onde crio projetos em programação, e também posto projectos dos storys através do Instagram, com o perfil chamado "[its.catumbela_17](https://www.instagram.com/its.catumbela_17/)".
+Me chamo Felisberto Catumbela, tenho 17 anos e sou natural de Luanda. Ainda terminando o ensino médio no IPPNSA, no curso técnico em informática. Atualmente, estou cursando e criando projectos pela internet. Sou apaixonada por tecnologia , onde crio projetos em programação, e também posto projectos dos storys através do Instagram, com o perfil chamado "[its.catumbela_17](https://www.instagram.com/its.catumbela_17/)".
 
 ###
 
